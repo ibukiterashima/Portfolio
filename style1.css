@@ -1,0 +1,51 @@
+*{
+  text-align: center;
+}
+.logo-title{
+  font-size: 30px;
+}
+header {
+  position: fixed;
+  padding: 10px ;         /* ヘッダーの固定 */
+  top: 0px;                   /* 位置(上0px) */
+  left: 0px;
+  width: 100%;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+  background-color: white;
+}
+header li {
+  display: inline-block;
+  font-size: 15px;
+  width:20%;
+}
+
+.page-title{
+  background: #000046;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-decoration:underline;
+text-decoration-color:white;
+color: white;
+  margin-top:40px;
+  padding: 200px 500px;
+
+}
+
+
+body{
+  font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+  text-align:center;
+}
+
+h2{
+  text-decoration:underline;
+  text-decoration-color:#55aaff;
+}
+
+video{
+  width:700px;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
