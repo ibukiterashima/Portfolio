@@ -63,6 +63,7 @@ table{
 .works-photo img{
   width:700px;
 }
+
 @media(max-width:1000px){
   .wrapper li{
     width:50%;
@@ -78,4 +79,6 @@ video{
 video{
   width: 400px;
 }
+*{
+  font-size: 10px;
 }
